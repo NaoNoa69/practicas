@@ -1,0 +1,1 @@
+print("The Moon And The Earth".upper())
